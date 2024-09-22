@@ -1,2 +1,32 @@
-# rgpereira-br >> resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+## Configuração de uma Instância de Banco de Dados no Microsoft Azure
+
+Configurar uma instância de banco de dados na Microsoft Azure é essencial para muitos projetos. Abaixo estão os passos básicos para realizar essa tarefa:
+
+1. **Acesso ao Portal do Azure:**
+   - Acesse o [portal do Azure](https://portal.azure.com/) e faça login com sua conta Microsoft.
+
+2. **Criação da Instância de Banco de Dados:**
+   - Dentro do portal, navegue até a seção de banco de dados.
+   - Crie uma nova instância de banco de dados, especificando detalhes como nome, tipo de autenticação e localização do servidor.
+
+3. **Configurações Básicas:**
+   - Durante a criação, preencha informações como assinatura, nome do banco de dados e servidor.
+   - Escolha o tipo de autenticação (por exemplo, autenticação baseada em senha ou autenticação integrada do Azure AD).
+
+4. **Configurações de Escalabilidade:**
+   - Dependendo das necessidades do seu projeto, configure opções de escalabilidade, como dimensionamento vertical (aumento de recursos) ou horizontal (adicionar réplicas).
+
+5. **Configurações de Segurança:**
+   - Defina regras de firewall para controlar o acesso à instância do banco de dados.
+   - Configure permissões de usuário e políticas de segurança.
+
+6. **Revisão e Criação:**
+   - Revise todas as configurações e clique em “Criar” para provisionar a instância do banco de dados.
+
+Lembre-se de que, com base nas suas escolhas, o Azure gerará uma previsão de custo mensal para a instância. Além disso, existem diferentes tipos de serviços disponíveis na Azure, incluindo:
+
+- **IaaS (Infraestrutura como Serviço)**
+- **PaaS (Plataforma como Serviço)**
+- **SaaS (Software como Serviço)**
+
+Esses serviços atendem às diversas necessidades dos projetos. 
