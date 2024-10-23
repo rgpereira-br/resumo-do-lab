@@ -31,5 +31,3 @@ A arquitetura de chat de ponta a ponta do **OpenAI** é um exemplo interessante.
 ## Bancos de Dados e DevOps
 
 A escolha do armazenamento de dados (OLAP, OLTP, data lakes) e a criação de sistemas escalonáveis para dados intensivos são aspectos cruciais. Além disso, o DevOps com contêineres e modelos avançados do ARM fazem parte da jornada de desenvolvimento.
-
-Se você quiser se aprofundar, recomendo explorar o Centro de Arquitetura do Azure. Lá, você encontrará guias detalhados, artigos populares e exemplos práticos para construir arquiteturas sólidas na nuvem.
